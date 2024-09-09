@@ -19,7 +19,6 @@ class _Home_ScreenState extends State<Home_Screen> {
             "assets/images/splace_screen.webp.webp",
             fit: BoxFit.cover,
           ),
-          // Main content
           Column(
             children: [
               AppBar(
